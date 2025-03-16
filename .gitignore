@@ -55,6 +55,7 @@ CMakeLists.txt.user
 build
 /lib/
 /include/
+/python_version/
 coverage_report
 .DS_Store
 coverage*
